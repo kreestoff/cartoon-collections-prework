@@ -12,7 +12,8 @@ end
 
 def long_planeteer_calls(elements)
   answer = false 
-  elements.each do |
+  elements.each do |call|
+    if call
 end
 
 def find_the_cheese# code an argument here
